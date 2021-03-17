@@ -19,7 +19,7 @@ public class ScriptFunctionInstallationNodeService implements
 
 	@Override
 	public String getTitle(Locale locale) {
-		return "Script Function Swing";
+		return "Script Function";
 	}
 
 	@Override
